@@ -1,0 +1,4 @@
+//isEmpty on a list with values does not work, it returns true
+//addBack does increment the length by one each time but it does not place the values at the back, it places them at the front
+//removeBack does not remove anything from the list, it just always returns false
+//remove front doesn't remove from front, it doesn't remove anything
